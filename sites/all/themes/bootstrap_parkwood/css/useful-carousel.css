@@ -1,0 +1,86 @@
+/* SOME IE VARIABLES */
+@-ms-viewport {
+  width: device-width; }
+@-o-viewport {
+  width: device-width; }
+/* USEFUL INFO - ICON SLIDER JCAROUSEL VIEW */
+/* line 5, ../sass/useful-carousel.scss */
+#block-views-useful-info-block {
+  clear: both; }
+  /* line 8, ../sass/useful-carousel.scss */
+  #block-views-useful-info-block .block {
+    margin-bottom: 0; }
+  /* line 12, ../sass/useful-carousel.scss */
+  #block-views-useful-info-block h2.block-title {
+    text-align: center; }
+  /* line 16, ../sass/useful-carousel.scss */
+  #block-views-useful-info-block .view-useful-info {
+    padding-bottom: 5em;
+    background-color: #872321;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px; }
+
+/* line 25, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-container-horizontal,
+.jcarousel-skin-default .jcarousel-clip-horizontal {
+  width: 95% !important;
+  margin: 0 auto; }
+/* line 31, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-item-horizontal {
+  margin: 0 17px; }
+/* line 35, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-item {
+  border: none;
+  height: auto; }
+  /* line 39, ../sass/useful-carousel.scss */
+  .jcarousel-skin-default .jcarousel-item .views-field-field-icon {
+    height: 100px; }
+  /* line 43, ../sass/useful-carousel.scss */
+  .jcarousel-skin-default .jcarousel-item .views-field-title {
+    background-color: #872321;
+    padding-top: 10px; }
+    /* line 47, ../sass/useful-carousel.scss */
+    .jcarousel-skin-default .jcarousel-item .views-field-title a {
+      color: #fff; }
+/* line 53, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-next,
+.jcarousel-skin-default .jcarousel-prev {
+  display: block;
+  background-image: url(../images/arrows.png);
+  width: 30px;
+  height: 41px; }
+/* line 61, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-next-horizontal {
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  background-position: 4px -42px; }
+
+/**
+ * Horizontal Buttons
+ */
+/* line 73, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-prev-horizontal {
+  position: absolute;
+  top: 55px;
+  left: 10px;
+  background-position: -18px 0; }
+
+/* line 79, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-prev-horizontal:hover {
+  background-position: -18px 0; }
+
+/* line 82, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-prev-horizontal:active {
+  background-position: -18px 0; }
+
+/* line 87, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-next-horizontal:hover {
+  background-position: 4px -42px; }
+
+/* line 90, ../sass/useful-carousel.scss */
+.jcarousel-skin-default .jcarousel-next-horizontal:active {
+  background-position: 4px -42px; }

@@ -1,0 +1,32 @@
+/* LATEST NEWS BLOCK */
+
+#block-views-latest-news-block {
+	padding: 10px 25px;
+	background-color: #fff;
+	margin-right: 15px;
+	margin-left: -15px;
+
+	h2.block-title {
+		background: #4d6299;
+		margin-left: -25px;
+		margin-right: -25px;
+		margin-top: -10px;
+		padding: 20px;
+		color: #fff;
+	}
+
+	.views-row{
+
+		padding: 10px;
+	}
+	
+	.views-row-odd {
+		border-top: 1px dashed;
+		border-bottom: 1px solid;		
+	}
+
+	.views-field-title h4{
+		color: #872321;
+	}
+	
+}

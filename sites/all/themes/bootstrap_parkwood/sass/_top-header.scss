@@ -1,0 +1,29 @@
+/* TOP RIGHT CONTACT BLOCK */
+
+/*Top right header block */
+
+.toprightheader { 
+
+	.block {
+
+		font-weight: bold;
+		//color: #872321;
+
+		@include media (small) {
+		margin-bottom: 0;
+		float: none;
+		position: absolute;
+		top: 10%;
+		right:2%;
+		}
+
+		@include media (tablet) {
+		margin-bottom: 0;
+		float: none;
+		position: absolute;
+		top: 1%;
+		right:2%;
+		}
+
+	}
+}

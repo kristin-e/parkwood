@@ -1,0 +1,40 @@
+/* FLEXSLIDER -FRONT PAGE SLIDESHOW */
+
+#block-views-slideshow-block {
+
+//		margin-bottom: 0;
+
+		.slogan {
+			text-align: center;
+			padding-top: .5em;
+			padding-bottom: .5em;
+			color: #ffffff;
+			background-color: #74a5d7; // #4d6299;
+			font-size: 20px;
+			letter-spacing: 0.02em;
+		}
+
+		@include media(tablet) {
+			margin-top: -1em;
+		}
+}
+
+.flexslider { 
+
+	margin: 0;
+	@include prefix (border, none);
+	@include prefix (box-shadow, none);
+
+	.slides {
+		display: block;
+
+		img {
+			width: 100%;
+			height: auto;
+		}
+	}
+
+	.flex-control-nav {
+		display: none;
+	}
+}

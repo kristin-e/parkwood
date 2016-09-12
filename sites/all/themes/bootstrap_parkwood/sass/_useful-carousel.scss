@@ -1,0 +1,92 @@
+
+/* USEFUL INFO - ICON SLIDER JCAROUSEL VIEW */
+
+#block-views-useful-info-block {
+	clear: both;
+
+	.block {
+		margin-bottom: 0;
+	}
+
+	h2.block-title {
+		text-align: center;
+	}
+
+	.view-useful-info {
+		padding-bottom: 5em;
+		background-color: #872321;
+		@include prefix (border-radius, 5px);
+	}
+}
+
+.jcarousel-skin-default {
+
+	.jcarousel-container-horizontal,
+	.jcarousel-clip-horizontal {
+		width: 95% !important;
+		margin: 0 auto;
+	}
+
+	.jcarousel-item-horizontal {
+		margin: 0 17px;
+	}
+
+	.jcarousel-item {
+		border: none;
+		height: auto;
+
+		.views-field-field-icon{
+			height: 100px;
+		}
+
+		.views-field-title {
+			background-color: #872321;
+			padding-top: 10px;
+
+			a {
+				color: #fff;
+			}
+		}
+	}
+
+	.jcarousel-next,
+	.jcarousel-prev {
+		display: block;
+		background-image: url(../images/arrows.png);
+		width: 30px;
+		height: 41px;
+	}
+
+	.jcarousel-next-horizontal {
+		position: absolute;
+		top: 50px;
+		right: 10px;
+		background-position: 4px -42px;
+	}
+}
+
+
+/**
+ * Horizontal Buttons
+ */
+.jcarousel-skin-default .jcarousel-prev-horizontal {
+  position: absolute;
+  top: 55px;
+  left: 10px;
+  background-position: -18px 0;
+}
+.jcarousel-skin-default .jcarousel-prev-horizontal:hover {
+  background-position: -18px 0;
+}
+.jcarousel-skin-default .jcarousel-prev-horizontal:active {
+  background-position: -18px 0;
+}
+
+
+.jcarousel-skin-default .jcarousel-next-horizontal:hover {
+  background-position: 4px -42px;
+}
+.jcarousel-skin-default .jcarousel-next-horizontal:active {
+  background-position: 4px -42px;
+}
+

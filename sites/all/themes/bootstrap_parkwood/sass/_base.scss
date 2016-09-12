@@ -1,0 +1,63 @@
+//Base styles
+
+* {
+	box-sizing: border-box;
+//	outline: dashed 1px red;
+}
+
+body {
+	color: #2d2d2d;
+	background: url(../images/header-bg.png)top left repeat-x;
+	font-size: 16px;
+}
+
+ a {
+	color: #872321;
+}
+
+p {
+	margin: 0 0 10px;
+//	font-size: 14px;
+	line-height: 1.5em;
+}
+strong {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #332E2e;
+	font-weight: normal;
+}
+
+.block {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.block-title {
+	margin-bottom: 1em;
+}
+
+#first-time {
+	display: none; //front page content area
+}

@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"top",
+				"top-intro"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"content",
+				"content-wrapper"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"de",
+				"desktop-quoter"
+			],
+			[
+				"conte",
+				"content-wrapper"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"page",
+				"page-node-10"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"view-c",
+				"view-clintage-slider"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"product",
+				"product-last"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"repeat-",
+				"repeat-x"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"hosting",
+				"hosting-products"
+			],
+			[
+				"bl",
+				"block-block-13"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"block",
+				"block-block-2"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"height",
+				"min-height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"vie",
+				"views-field-body"
+			],
+			[
+				"views",
+				"views-field-title"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"webform",
+				"webform-general-enquiries"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"v",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sy",
+				"Set Syntax: JSON"
+			],
+			[
+				"",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/parkwood/sites/all/themes/bootstrap_parkwood/package.json",
+		"/Applications/MAMP/htdocs/parkwood/sites/all/themes/education/education/css/menu.css",
+		"/Applications/MAMP/htdocs/parkwood/sites/all/themes/education/education/css/screen.css",
+		"/Applications/MAMP/htdocs/parkwood/sites/all/themes/bootstrap_parkwood/custom-sass/style.scss",
+		"/Applications/MAMP/htdocs/parkwood/sites/all/themes/education/education/tpl/page.tpl.php",
+		"/Applications/MAMP/htdocs/parkwood/sites/all/themes/education/education/css/layout.css",
+		"/Applications/MAMP/htdocs/drupal7/sites/viworks.drupal7.local/settings.php",
+		"/Users/dingierken/.drush/parkwood.aliases.drushrc.php",
+		"/Users/dingierken/.drush/viworks.aliases.drushrc.php",
+		"/Users/dingierken/.drush/tagadab.aliases.drushrc.php",
+		"/Applications/MAMP/htdocs/parkwood/sites/default/settings.php",
+		"/Users/dingierken/Downloads/openmind/wordpress/wp-content/themes/openmind/css/style.css",
+		"/Users/dingierken/Downloads/Drupal_Consilium/Extra/themes/consilium/scss/drupal.scss",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/css/style.css",
+		"/Applications/MAMP/htdocs/aia/mondelez/www/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_profiles.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_freelance-profile-intros.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-eoin.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-karen.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-david.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-deborah.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-bobby.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-akash.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--4.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--1.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--2.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--3.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--profiles.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--20.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/teaser_info_collection.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/styles.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--17.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_graduate-programmes.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profiles-master.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-intro-open-days.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile-intro-training-contracts.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/profile_intro.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--graduate_programmes.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_freelance-application.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--10.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--11.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--16.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/components-temp-home.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_fonts.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_mixins.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/components-temp.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/components-temp-working-here.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/components-temp-apply.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/important_info_collection.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/node--6.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_freelance-mixin.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_application.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_freelance-variables.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_freelance-placeholders.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/template.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/gelbergs/template.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/templates/includes/requirements_collection.tpl.php",
+		"/Applications/MAMP/htdocs/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie/sass/_normalize.scss",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/page--node--39.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/page--front.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/page--node--10.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/page--node--63.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/page--node--16.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/templates/node-10.tpl.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/tagadab_bootstrap.info",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/bootstrap/bootstrap.info",
+		"/Users/dingierken/.drush/tagadab.alias.drushrc.php",
+		"/Applications/MAMP/htdocs/drupal7/sites/all/themes/gelbergs/sass/blocks.scss",
+		"/Users/dingierken/.drush/gelbergs.aliases.drushrc.php",
+		"/Users/dingierken/Desktop/tagadab.alias.drushrc.php",
+		"/Users/dingierken/Library/Application Support/Sublime Text 2/Packages/User/CSS.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#sliding-popup",
+			"EU COOKIE COMPLIANCE BUTTONS",
+			"tion in IE8",
+			"...tion in IE8",
+			"...tion in IE8.",
+			".view-product-listing .views-field-field-product-vat",
+			"cta",
+			"profile-david-half-flip",
+			"teaser-container",
+			"quote",
+			"profile",
+			"grey-bg",
+			"bootstrap style",
+			"deborah",
+			"0",
+			"profile-david-half",
+			"deborah",
+			"div",
+			"http://local.bandm.net/aia/baker-mckenzie/www",
+			"node-15",
+			"http://local.bandm.net/aia/baker-mckenzie/www/sites/all/themes/baker_mckenzie",
+			"http://local.bandm.net/aia/baker-mckenzie/www",
+			"100% 0%",
+			"10% 100%",
+			"right-eye",
+			"block",
+			"@include setgrid(1,20);",
+			"* {\n		@include outline ();\n	}",
+			"2,18",
+			"/sites",
+			"(\"/",
+			"http://local.bandm.net/aia/baker-mckenzie/www",
+			"grey",
+			"block",
+			"11",
+			"10",
+			"div",
+			"icon",
+			".products",
+			".blue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/drupal7/sites/all/themes/tagadab_bootstrap/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,86 @@
+/* MAIN PAGES */
+
+
+// Sub pages view within each main menuu page
+.view-id-group {
+
+	.views-row {
+		margin-bottom: 1em;
+	}
+
+	h4 {
+		margin-top: -.15em;
+		line-height: 1.2em;
+	}
+
+	img {
+		width: 100%;
+		height: auto;
+	}
+
+}
+
+
+//Main pages...
+.node-type-page {
+
+	.navbar {
+		
+		margin-bottom: 25px;
+		
+
+		@include media (tablet){
+			margin-bottom: 5px;
+		}
+	}
+
+	.main-container {
+	margin-top: 0;
+	}	
+
+	h1.title {
+		padding: 11px;
+		background: #4d6299;
+		color: #fff;
+		width: 70%;
+		margin: 0;
+
+		@include media(mobile) {
+			padding: 28px;
+		}
+
+	}
+
+	.block-system {
+		margin-top: 0;
+	}
+
+	.field-name-field-pg-image {
+
+		float: left;
+		position: relative;
+		padding-right: 2em;
+		padding-bottom: 2em;
+
+		img{
+			height: auto;
+			width: 100%;
+		}
+	}
+
+	.field-name-field-promo {
+		padding-top: 30px;
+
+		h4 {
+			line-height: 1.5em;
+		}
+	}
+
+	.field-name-body {
+		clear: both;
+	}
+}
+
+
+
+

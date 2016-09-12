@@ -1,0 +1,30 @@
+/// Holding view - front page "Our vision and ethos" message 
+
+.view-holding-page {
+	font-size: 105%;
+	padding-right: 30px;
+}
+
+#block-views-clone-of-holding-page-block {
+
+	.views-row {
+		@include clearfix()
+	}
+
+	h1 {
+		margin-top: 0;
+	}
+
+	h3 {
+		margin-top: 0;
+		word-wrap: break-word;
+	}
+
+	img {
+		display: inline-block;
+		float: left;
+		padding-right: 10px;
+	}
+
+}
+

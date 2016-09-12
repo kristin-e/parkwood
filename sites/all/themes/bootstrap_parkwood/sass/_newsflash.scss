@@ -1,0 +1,14 @@
+.newsflash {
+		padding: 10px;
+		border: 5px dotted #4d6299;
+		@include prefix (border-radius, 5px);
+	}
+
+//Newsflash full node
+
+.node-type-newsflash {
+
+	.field-name-field-image {
+		float: left;
+	}
+}

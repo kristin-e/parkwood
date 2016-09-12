@@ -1,0 +1,49 @@
+/* CALENDAR */
+
+.calendar {
+	margin-top: 1.5em;
+	background-color: #e8edf9;
+
+	.date-nav {
+		padding-bottom: 0;
+	}
+}
+
+.view .date-nav-wrapper {
+
+	.pager {
+		margin: 5px 0;
+	}
+
+	.date-next, .date-prev {
+		background: none;
+
+		a {
+			margin-left: 0;
+			margin-right: 0;
+			background: #872321;
+			color: #fff;
+		}
+	}
+
+	.date-heading h3 {
+		font-size: 70%;
+
+		@include media(tablet) {
+
+			font-size: 95%;
+		}
+	}
+}
+
+table td.mini a {
+	font-weight: bold;
+	background-color: turquoise;
+}
+
+/* DATE FORMATS */
+
+span.date-display-single {
+	font-size: 85%;
+	color: #3a3a3a;
+}
